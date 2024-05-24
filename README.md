@@ -1,16 +1,22 @@
-## Hi there 👋
+**Bem vindo ao meu perfil**! 🍒❤️
 
-<!--
-**SCMDJC/SCMDJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sarah Dias🥀
 
-Here are some ideas to get you started:
+. Sou aluna da escola E.E.PEI JOÂO CLIMACO DE CAMARGO PIRES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. Utilizamos como ferramenta nas aulas de robótica os cursos do [Alura](https://alura.com.br)
+
+. Estou aprendendo linguagem JAVASCRIPT com minha professora
+
+. Utilzo esse espaço para organização e compartilhamento dos meus projetos
+
+
+
+
+**Você pode entrar em contato comigo**:
+📫 00001109543906sp@al.educacao.sp.gov.br
+
+
+
+
+![](https://media1.tenor.com/m/Js52oIdZClYAAAAC/yes-michael-jackson.gif)
